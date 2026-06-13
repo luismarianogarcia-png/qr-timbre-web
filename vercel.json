@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/h/casa", "destination": "/visitante.html" },
+    { "source": "/dueno", "destination": "/dueno.html" }
+  ]
+}
